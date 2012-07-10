@@ -6,8 +6,8 @@ The Lean Canvas template is a worksheet for capturing and exploring early-stage 
 
 ## Files
 
- * [lean-canvas.odg](./lean-canvas.odg) is the "source" version of the template, an OpenDocument graphics (ODG) file created with OpenOffice and/or LibreOffice.
- * [lean-canvas.pdf](./lean-canvas.pdf) is a Portable Document Format (PDF) export of the template, suitable for printing.
+ * [`lean-canvas.odg`](https://github.com/rodw/paper-forms/raw/master/lean-canvas/lean-canvas.odg) is the "source" version of the template, an OpenDocument graphics (ODG) file created with OpenOffice and/or LibreOffice.
+ * [`lean-canvas.pdf`](https://github.com/rodw/paper-forms/raw/master/lean-canvas/lean-canvas.pdf) is a Portable Document Format (PDF) export of the template, suitable for printing.
 
 ## Credits and Sources
 
