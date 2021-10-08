@@ -13,6 +13,14 @@ that supports the interactivity. This version of the SVG template has been manua
 cleaned-up and lightly documented, so it may be a little easier to work with if your
 interesting in modifying the diagram in some way.
 
+## Sample Image
+
+Here's an inline version of the SVG fretboard template. Use the links below
+(or just navigate to the files in this directory) to see different versions 
+or to access the full, raw file.
+
+![Guitar Fretboard for EADGBe Tuning](https://raw.githubusercontent.com/rodw/paper-forms/master/fretboard-charts/guitar-fretboard-EADGBe.svg)
+
 ## How to Interpret the Chart
 
 The boxes in the diagram reflect the grid formed by the strings and frets on
