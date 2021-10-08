@@ -68,6 +68,26 @@
       .fretboard g.fwrp.As rect.fbx, .fretboard g.fwrp.Bb rect.fbx { fill:#cbb968; stroke: hsl(  63, 50%, 30% ); }
       .fretboard g.fwrp.B  rect.fbx                                { fill:#adc877; stroke: hsl(  93, 50%, 30% ); }
       /** HIDE SHARP/FLAT EXCEPT ON HOVER *************************************/
+      .fretboard g.fwrp.Cs text.ftx,
+      .fretboard g.fwrp.Db text.ftx,
+      .fretboard g.fwrp.Ds text.ftx,
+      .fretboard g.fwrp.Eb text.ftx,
+      .fretboard g.fwrp.Fs text.ftx,
+      .fretboard g.fwrp.Gb text.ftx,
+      .fretboard g.fwrp.Gs text.ftx,
+      .fretboard g.fwrp.Ab text.ftx,
+      .fretboard g.fwrp.As text.ftx,
+      .fretboard g.fwrp.Bb text.ftx        { fill:#00000000; stroke:#00000000; transition: fill 400ms ease-in-out, stroke 400ms ease-in-out; }
+      .fretboard g.fwrp.Cs:hover text.ftx,
+      .fretboard g.fwrp.Db:hover text.ftx,
+      .fretboard g.fwrp.Ds:hover text.ftx,
+      .fretboard g.fwrp.Eb:hover text.ftx,
+      .fretboard g.fwrp.Fs:hover text.ftx,
+      .fretboard g.fwrp.Gb:hover text.ftx,
+      .fretboard g.fwrp.Gs:hover text.ftx,
+      .fretboard g.fwrp.Ab:hover text.ftx,
+      .fretboard g.fwrp.As:hover text.ftx,
+      .fretboard g.fwrp.Bb:hover text.ftx  { fill:#000000; stroke:#000000; }
     </style>
   </defs>
 
