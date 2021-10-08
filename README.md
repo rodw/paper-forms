@@ -1,5 +1,7 @@
 This repository houses a collection of printable forms and templates.
 
+ * [fretboard charts](https://github.com/rodw/paper-forms/tree/master/fretboard-charts) - colorful, interactive diagrams mapping the notes the neck of a guitar
+
  * [graph paper](https://github.com/rodw/paper-forms/tree/master/graph-paper) - various types of graph paper
 
  * [habit charts](https://github.com/rodw/paper-forms/tree/master/habits) - bubble charts for tracking habits
