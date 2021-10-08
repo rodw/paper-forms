@@ -23,7 +23,6 @@
   <!-- STYLE -->
   <defs>
     <style type="text/css">
-      .fretboard                    { backgound:white; }
       /** TEXT **********************************************************/
       .fretboard text               { dominant-baseline:central; text-anchor:middle; font-family:arial; stroke-width:0px; }
       .fretboard text.ftx           { font-size: 36px; }
